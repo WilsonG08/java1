@@ -17,9 +17,9 @@ public class TestCuadrado {
 		double perimetroCuadrado3;
 
 		// Asignacion de los valores de cada cuadrado
-		c1.lado = 6;
-		c2.lado = 3;
-		c3.lado = 5;
+		c1.setLado(6);
+		c2.setLado(3);
+		c3.setLado(5);
 
 		// Para calcular el area de los 3 cuadrados
 		areaCuadrado1 = c1.calcularArea();

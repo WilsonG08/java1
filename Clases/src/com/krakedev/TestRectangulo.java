@@ -14,14 +14,14 @@ public class TestRectangulo {
 		double perimetro;
 
 		// Asiganacion de valores
-		r1.base = 10;
-		r1.altura = 5;
+		r1.setBase(10);
+		r1.setAltura(5);
 
-		r2.base = 8;
-		r2.altura = 3;
+		r2.setBase(8);
+		r2.setAltura(3);
 		
-		r3.base = 4;
-		r3.altura = 2;
+		r3.setBase(4);
+		r3.setAltura(2);
 
 		areaR1 = r1.calcularArea();
 		areaR2 = r2.calcularArea();
