@@ -16,3 +16,8 @@ _________________________
 Ejecucion reto 2 - Métodos:
 
 ![image](https://github.com/WilsonG08/java/assets/117754219/6f0cae88-0f96-40f6-baf3-794e36ed6e83)
+
+______________________
+Ejecucion del reto 3 
+
+![image](https://github.com/WilsonG08/java/assets/117754219/11244859-9c3b-4104-a677-ef8a68adc453)
