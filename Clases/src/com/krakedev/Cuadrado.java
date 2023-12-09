@@ -3,6 +3,10 @@ package com.krakedev;
 public class Cuadrado {
 	// Atributo
 	private int lado;
+	
+	public Cuadrado(int lado) {
+		this.lado = lado;
+	}
 
 	public double calcularArea() {
 		double area;

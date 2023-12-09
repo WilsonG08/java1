@@ -11,6 +11,13 @@ public class TestPersona {
 		Persona p; // 1. Declaro una variable p de tipo de Persona
 		// Declaro e instacion en la misma linea
 		Persona p2 = new Persona();
+		Persona p3 = new Persona("Wilson");
+		Persona p4 = new Persona("Anngela", 22, 1.60);
+		
+		System.out.println("nombre: " + p4.getNombre());
+		System.out.println("edad: " + p4.getEdad());
+		System.out.println("estatura: " + p4.getEstatura());
+
 
 		p = new Persona(); // 2. Instanciar (crear) un objeto Persona, referencias con p
 
